@@ -8,3 +8,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 
 https://nextjs.org/learn/dashboard-app/fetching-data
+https://nextjs.org/learn/dashboard-app/static-and-dynamic-rendering
